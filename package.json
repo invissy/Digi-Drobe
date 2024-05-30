@@ -1,0 +1,27 @@
+{
+  "name": "digi-drobe",
+  "version": "1.0.0",
+  "description": "Recreating my CS546 project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invissy/Digi-Drobe.git"
+  },
+  "author": "Cindy Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invissy/Digi-Drobe/issues"
+  },
+  "homepage": "https://github.com/invissy/Digi-Drobe#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "express-session": "^1.18.0",
+    "mongodb": "^6.7.0"
+  }
+}

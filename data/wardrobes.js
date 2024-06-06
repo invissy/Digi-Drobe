@@ -1,0 +1,1 @@
+import { wardrobes } from "../config/mongoCollections.js";

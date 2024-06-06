@@ -1,0 +1,1 @@
+import { oufitPieces } from "../config/mongoCollections.js";
